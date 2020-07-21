@@ -21,6 +21,7 @@
 		5CBEBF9624C7256D00BA4F64 /* YoutubeErros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBEBF9524C7256D00BA4F64 /* YoutubeErros.swift */; };
 		5CBEBF9824C72EA400BA4F64 /* General Youtube Channel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBEBF9724C72EA400BA4F64 /* General Youtube Channel.swift */; };
 		5CBEBF9B24C7307300BA4F64 /* URLImage in Frameworks */ = {isa = PBXBuildFile; productRef = 5CBEBF9A24C7307300BA4F64 /* URLImage */; };
+		5CBEBF9D24C7358B00BA4F64 /* AppConstatns.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CBEBF9C24C7358B00BA4F64 /* AppConstatns.swift */; };
 		E6F665D4617DE2C40AB44495 /* Pods_yallaDealz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1078DA53D14558C62810300 /* Pods_yallaDealz.framework */; };
 		EC47EC728DAFB853F20C0143 /* Pods_yallaDealzTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8715E79A1B137CA556CBDD8F /* Pods_yallaDealzTests.framework */; };
 /* End PBXBuildFile section */
@@ -55,6 +56,7 @@
 		5CBEBF9324C7230000BA4F64 /* YoutubeChannel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeChannel.swift; sourceTree = "<group>"; };
 		5CBEBF9524C7256D00BA4F64 /* YoutubeErros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeErros.swift; sourceTree = "<group>"; };
 		5CBEBF9724C72EA400BA4F64 /* General Youtube Channel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "General Youtube Channel.swift"; sourceTree = "<group>"; };
+		5CBEBF9C24C7358B00BA4F64 /* AppConstatns.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstatns.swift; sourceTree = "<group>"; };
 		71B1314690F49A18FED84B8D /* Pods-yallaDealz.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yallaDealz.debug.xcconfig"; path = "Target Support Files/Pods-yallaDealz/Pods-yallaDealz.debug.xcconfig"; sourceTree = "<group>"; };
 		8715E79A1B137CA556CBDD8F /* Pods_yallaDealzTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_yallaDealzTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D2026719FBB4FF8FD63380C /* Pods-yallaDealzTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yallaDealzTests.debug.xcconfig"; path = "Target Support Files/Pods-yallaDealzTests/Pods-yallaDealzTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				5CBEBF6B24C71E0D00BA4F64 /* AppDelegate.swift */,
 				5CBEBF6D24C71E0D00BA4F64 /* SceneDelegate.swift */,
 				5CBEBF6F24C71E0D00BA4F64 /* ContentView.swift */,
+				5CBEBF9C24C7358B00BA4F64 /* AppConstatns.swift */,
 				5CBEBF8D24C721A100BA4F64 /* ChannelsViewModel.swift */,
 				5CBEBF8F24C7225100BA4F64 /* Youtubeable.swift */,
 				5CBEBF9524C7256D00BA4F64 /* YoutubeErros.swift */,
@@ -336,6 +339,7 @@
 				5CBEBF9224C722B700BA4F64 /* YoutubeAPI.swift in Sources */,
 				5CBEBF6C24C71E0D00BA4F64 /* AppDelegate.swift in Sources */,
 				5CBEBF9024C7225100BA4F64 /* Youtubeable.swift in Sources */,
+				5CBEBF9D24C7358B00BA4F64 /* AppConstatns.swift in Sources */,
 				5CBEBF6E24C71E0D00BA4F64 /* SceneDelegate.swift in Sources */,
 				5CBEBF8E24C721A100BA4F64 /* ChannelsViewModel.swift in Sources */,
 				5CBEBF9824C72EA400BA4F64 /* General Youtube Channel.swift in Sources */,

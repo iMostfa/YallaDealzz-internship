@@ -36,9 +36,6 @@ class YoutubeAPI: Youtubeable {
 
 }
 
-enum AppConstats: String {
-case APIKeys = "AIzaSyB43vfEpUD3NFH5ZV3l1UXcJOZ5aZ7SIZQ"
-}
 
 
 struct YoutubeChannel: Codable {
