@@ -1,0 +1,6 @@
+framework module Pods_yallaDealzTests {
+  umbrella header "Pods-yallaDealzTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
